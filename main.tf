@@ -1,3 +1,4 @@
+#creating resources
 resource "aws_s3_bucket" "ank_bucket" {
   bucket = "bucketgithubaction"
 
